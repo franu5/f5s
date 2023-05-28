@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 
 author 'franu5'
-description 'server-securty'
+description 'f5s'
 game 'gta5'
 
 client_script 'main.lua'
